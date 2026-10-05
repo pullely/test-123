@@ -1,0 +1,11 @@
+{
+  "reponame": "test-123",
+  "productname": "test-123",
+  "productdomain": "test.dev",
+  "apibaseurl": "https://api.test.dev",
+  "subdomain": "nexo-7be",
+  "orunWorkspace": "ws_VGM4PZSW",
+  "githuborg": "pullely",
+  "epicSlug": "infra-baselining",
+  "domain": false
+}
